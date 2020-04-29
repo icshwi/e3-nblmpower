@@ -1,0 +1,4 @@
+[submodule "m-epics-nblmpower"]
+	path = m-epics-nblmpower
+	url = https://bitbucket.org/europeanspallationsource/m-epics-nblmpower
+	ignore = all
