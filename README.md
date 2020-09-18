@@ -1,6 +1,5 @@
+# DEPRECATION NOTICE
 
-e3-nblmpower  
-======
-ESS Site-specific EPICS IOC Application : nblmpower
+## 2020-09-18
 
-In CSS the main opi to run is power_supplies_SY4527_selection.opi
+This remote has been deprecated. New target available at: https://gitlab.esss.lu.se/e3/bi/e3-nblmpower
